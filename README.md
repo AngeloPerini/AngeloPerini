@@ -1,14 +1,7 @@
 <br clear="both">
 
-<h2 align="left">Olá👋! Meu nome é Angelo Perini, sou de Aracaju-se programador focado em back-end com tendência ao full-stack.</h2>
+<h2 align="left">Olá👋! Meu nome é Angelo Perini, sou de Aracaju-SE programador focado em back-end com tendência ao full-stack.</h2>
 
-###
-
-<div align="center">
-  <a href="https://open.spotify.com/user/Angelo Perini">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31e3dr6fdf55ar7pyzuxm52wgjve"  />
-  </a>
-</div>
 
 ###
 
