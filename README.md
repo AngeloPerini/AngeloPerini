@@ -41,9 +41,7 @@
 
 <div align="center">
   <a href="https://open.spotify.com/user/Angelo Perini">
-    
-    
-  <url:"https://spotify-recently-played-readme.vercel.app/api?user=31e3dr6fdf55ar7pyzuxm52wgjve">
+    <link rel="stylesheet" href="https://spotify-recently-played-readme.vercel.app/api?user=31e3dr6fdf55ar7pyzuxm52wgjve">
   </a>
 </div>
 
